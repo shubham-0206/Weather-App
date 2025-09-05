@@ -1,0 +1,10 @@
+.Searchbox{
+    text-align: center;
+ }
+ .InfoBox{
+   text-align: center;
+ }
+ .Card{
+ display: flex;
+ justify-content: center;
+ }
